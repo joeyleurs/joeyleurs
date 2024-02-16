@@ -1,16 +1,28 @@
-### Hi there 👋
+## My Goals
+- [x] Setup my GitHub profile
+- [x] Learn Basic Design Principles
+- [ ] Learn HTML
+- [ ] Learn CSS
+- [ ] Learn JavaScript
+- [ ] Understand HTTP Requests
+- [ ] Learn Bootstrap 5 (CSS Framework)
+- [ ] Learn Sass (Pre-Processor)
+- [ ] Learn React (JavaScript Library/Framework)
+- [ ] Learn to use NPM to install packages
+- [ ] Learn about Server-Side Rendering (SSR)
+- [ ] Learn about Static Site Generators (SSG)
+- [ ] Understand WEB APIs
+- [ ] Look into Animation libraries like GSAP, Anime.js, & React Spring
+- [ ] Deploy my resume website through a SaaS provider
+
+> [!NOTE]
+> I’m currently learning HTML.
 
 <!--
-**joeyleurs/joeyleurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m currently working on ...
+I’m currently learning ...
 -->
+
+
+
+
