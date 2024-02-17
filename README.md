@@ -13,7 +13,7 @@
 - [ ] Learn about Static Site Generators (SSG)
 - [ ] Understand WEB APIs
 - [ ] Look into Animation libraries like GSAP, Anime.js, & React Spring
-- [ ] Deploy my resume website through a SaaS provider
+- [ ] Deploy my resume website through a PaaS provider
 
 > [!NOTE]
 > I’m currently learning JavaScript.
