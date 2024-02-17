@@ -1,8 +1,8 @@
 ## My Goals
 - [x] Setup my GitHub profile
 - [x] Learn Basic Design Principles
-- [ ] Learn HTML
-- [ ] Learn CSS
+- [x] Learn HTML
+- [x] Learn CSS
 - [ ] Learn JavaScript
 - [ ] Understand HTTP Requests
 - [ ] Learn Bootstrap 5 (CSS Framework)
@@ -16,7 +16,7 @@
 - [ ] Deploy my resume website through a SaaS provider
 
 > [!NOTE]
-> I’m currently learning HTML.
+> I’m currently learning JavaScript.
 
 <!--
 I’m currently working on ...
