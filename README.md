@@ -3,20 +3,20 @@
 - [x] Learn Basic Design Principles
 - [x] Learn HTML
 - [x] Learn CSS
-- [ ] Learn Bootstrap 5 (CSS Framework)
-- [ ] Learn JavaScript
-- [ ] Learn to use NPM to install packages
-- [ ] Learn React (JavaScript Library/Framework)
-- [ ] Learn Sass (Pre-Processor)
+- [x] Learn Bootstrap 5 (CSS Framework)
+- [x] Learn JavaScript
+- [x] Learn to use NPM to install packages
+- [x] Learn React (JavaScript Library/Framework)
+- [x] Learn Sass (Pre-Processor)
 - [ ] Understand HTTP Requests
 - [ ] Understand WEB APIs
-- [ ] Learn about Server-Side Rendering (SSR)
-- [ ] Learn about Static Site Generators (SSG)
+- [x] Learn about Server-Side Rendering (SSR)
+- [x] Learn about Static Site Generators (SSG)
 - [ ] Look into Animation libraries like GSAP, Anime.js, & React Spring
-- [ ] Deploy a resume website
+- [x] Deploy a resume website
 
 > [!NOTE]
-> I’m currently learning Bootstrap 5.
+> I’m currently working on projects!
 
 <!--
 I’m currently working on ...
